@@ -1,0 +1,1 @@
+add_library(model sandpile.cpp sandpile.h)

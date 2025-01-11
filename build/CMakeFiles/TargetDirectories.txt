@@ -1,0 +1,5 @@
+/Users/deus/Projects/С++/Programming_Basics/Laba3/Laba3_reincarnation/public/yzhe_tochno/labwork3-soilow/build/CMakeFiles/main.dir
+/Users/deus/Projects/С++/Programming_Basics/Laba3/Laba3_reincarnation/public/yzhe_tochno/labwork3-soilow/build/CMakeFiles/ALL_BUILD.dir
+/Users/deus/Projects/С++/Programming_Basics/Laba3/Laba3_reincarnation/public/yzhe_tochno/labwork3-soilow/build/CMakeFiles/ZERO_CHECK.dir
+/Users/deus/Projects/С++/Programming_Basics/Laba3/Laba3_reincarnation/public/yzhe_tochno/labwork3-soilow/build/image/CMakeFiles/image.dir
+/Users/deus/Projects/С++/Programming_Basics/Laba3/Laba3_reincarnation/public/yzhe_tochno/labwork3-soilow/build/model/CMakeFiles/model.dir

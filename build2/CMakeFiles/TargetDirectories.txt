@@ -1,0 +1,9 @@
+/Users/deus/Projects/С++/Programming_Basics/Laba3/Laba3_reincarnation/public/yzhe_tochno/labwork3-soilow/build2/CMakeFiles/main.dir
+/Users/deus/Projects/С++/Programming_Basics/Laba3/Laba3_reincarnation/public/yzhe_tochno/labwork3-soilow/build2/CMakeFiles/edit_cache.dir
+/Users/deus/Projects/С++/Programming_Basics/Laba3/Laba3_reincarnation/public/yzhe_tochno/labwork3-soilow/build2/CMakeFiles/rebuild_cache.dir
+/Users/deus/Projects/С++/Programming_Basics/Laba3/Laba3_reincarnation/public/yzhe_tochno/labwork3-soilow/build2/image/CMakeFiles/image.dir
+/Users/deus/Projects/С++/Programming_Basics/Laba3/Laba3_reincarnation/public/yzhe_tochno/labwork3-soilow/build2/image/CMakeFiles/edit_cache.dir
+/Users/deus/Projects/С++/Programming_Basics/Laba3/Laba3_reincarnation/public/yzhe_tochno/labwork3-soilow/build2/image/CMakeFiles/rebuild_cache.dir
+/Users/deus/Projects/С++/Programming_Basics/Laba3/Laba3_reincarnation/public/yzhe_tochno/labwork3-soilow/build2/model/CMakeFiles/model.dir
+/Users/deus/Projects/С++/Programming_Basics/Laba3/Laba3_reincarnation/public/yzhe_tochno/labwork3-soilow/build2/model/CMakeFiles/edit_cache.dir
+/Users/deus/Projects/С++/Programming_Basics/Laba3/Laba3_reincarnation/public/yzhe_tochno/labwork3-soilow/build2/model/CMakeFiles/rebuild_cache.dir
